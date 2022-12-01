@@ -11,5 +11,5 @@ Funcional con Android y Web
 
 Solución:
 
-https://github.com/MisionTIC4b/f_chat
 
+https://github.com/dxmarquez/chats_nrc2290_grupo1
