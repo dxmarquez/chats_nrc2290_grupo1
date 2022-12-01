@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973838687589",
+    "project_id": "reto3-salachat",
+    "storage_bucket": "reto3-salachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973838687589:android:7610492b8615dcb174558c",
+        "android_client_info": {
+          "package_name": "com.example.f_chat_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973838687589-10fp5nv8e99lank2864qaggib0qvhs4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwW8aNQRzppIaUltD1l2NncNxWVynPcFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973838687589-10fp5nv8e99lank2864qaggib0qvhs4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
