@@ -1,5 +1,4 @@
-# f_chat_template
-
+# Entrega de reto 3 : Chat con Firebase
 Resolución de reto 3 con una aplicación de chat usando la base de datos de tiempo real de firebase.
 
 La aplicación es 100% funcional como se puede ver:
