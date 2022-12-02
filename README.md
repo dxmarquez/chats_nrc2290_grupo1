@@ -7,7 +7,7 @@ Video: https://youtu.be/B3SfN_NcBjk
 Funcional con Android y Web
 
 
-![chat](https://user-images.githubusercontent.com/4458129/174921637-af104c0d-a64a-4625-b3af-9d4acd37cee5.gif)
+![chat](https://github.com/dxmarquez/chats_nrc2290_grupo1/blob/main/reto3.gif?raw=true)
 
 Solución:
 
